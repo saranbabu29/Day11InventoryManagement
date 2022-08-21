@@ -1,0 +1,28 @@
+{
+  "Rice": [
+    {
+      "Name": "Basmati",
+      "Weight": 10,
+      "Price": 700
+    },
+    {
+      "Name": "Arborio rice",
+      "Price": 90,
+      "Weight": 20
+    }
+  ],
+  "Pulses": [
+    {
+      "Name": "Black Gram",
+      "Price": 123,
+      "Weight": 12
+    }
+  ],
+  "Wheats": [
+    {
+      "Name": "Emmer",
+      "Weight": 20,
+      "Price": 150
+    }
+  ]
+}
